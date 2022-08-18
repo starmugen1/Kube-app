@@ -7,8 +7,8 @@ pipeline {
     }
 */
     environment {
-        registery = "nochimugen/vprofileapp:v1"
-        registeryCredential = "dockerhub"
+        registry = "nochimugen/vprofileapp:v1"
+        registryCredential = "dockerhub"
     }
 
     stages{
