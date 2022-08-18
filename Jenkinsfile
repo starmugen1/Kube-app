@@ -7,7 +7,7 @@ pipeline {
     }
 */
     environment {
-        registry = "nochimugen/vprofileapp:v1"
+        registry = "nochimugen/vprofileapp"
         registryCredential = "dockerhub"
     }
 
