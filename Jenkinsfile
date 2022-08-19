@@ -7,7 +7,7 @@ pipeline {
     }
 */
     environment {
-        registry = "nochimugen/vprofileapp"
+        registry = "kubeimran/vproappdock"
         registryCredential = "dockerhub"
     }
 
